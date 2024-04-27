@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("NomUStudentPortalProject"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ccee465a96ae0f29679aeaac231430e974b0d01"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("NomUStudentPortalProject"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("NomUStudentPortalProject"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

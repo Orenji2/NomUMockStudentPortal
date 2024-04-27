@@ -7,7 +7,7 @@
         InitializeComponent()
         Dim stud1 As New Student("Jose", "1234", 74, 75, 80)
         Dim stud2 As New Student("Juana", "abcd", 90, 95, 90)
-        Dim stud3 As New Student("Cardo", "juana", 70, 70, 70)
+        Dim stud3 As New Student("Cardo", "juana", 75, 75, 75)
         listStudent.Add(stud1)
         listStudent.Add(stud2)
         listStudent.Add(stud3)
