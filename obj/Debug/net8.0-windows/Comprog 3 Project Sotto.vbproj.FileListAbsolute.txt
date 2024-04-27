@@ -1,0 +1,18 @@
+D:\Users\reina\source\repos\Comprog 3 Project Sotto\Comprog 3 Project Sotto\bin\Debug\net8.0-windows\Comprog 3 Project Sotto.exe
+D:\Users\reina\source\repos\Comprog 3 Project Sotto\Comprog 3 Project Sotto\bin\Debug\net8.0-windows\Comprog 3 Project Sotto.deps.json
+D:\Users\reina\source\repos\Comprog 3 Project Sotto\Comprog 3 Project Sotto\bin\Debug\net8.0-windows\Comprog 3 Project Sotto.runtimeconfig.json
+D:\Users\reina\source\repos\Comprog 3 Project Sotto\Comprog 3 Project Sotto\bin\Debug\net8.0-windows\Comprog 3 Project Sotto.dll
+D:\Users\reina\source\repos\Comprog 3 Project Sotto\Comprog 3 Project Sotto\bin\Debug\net8.0-windows\Comprog 3 Project Sotto.pdb
+D:\Users\reina\source\repos\Comprog 3 Project Sotto\Comprog 3 Project Sotto\obj\Debug\net8.0-windows\Comprog_3_Project_Sotto.Form1.resources
+D:\Users\reina\source\repos\Comprog 3 Project Sotto\Comprog 3 Project Sotto\obj\Debug\net8.0-windows\Comprog 3 Project Sotto.vbproj.GenerateResource.cache
+D:\Users\reina\source\repos\Comprog 3 Project Sotto\Comprog 3 Project Sotto\obj\Debug\net8.0-windows\Comprog 3 Project Sotto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\reina\source\repos\Comprog 3 Project Sotto\Comprog 3 Project Sotto\obj\Debug\net8.0-windows\Comprog 3 Project Sotto.AssemblyInfoInputs.cache
+D:\Users\reina\source\repos\Comprog 3 Project Sotto\Comprog 3 Project Sotto\obj\Debug\net8.0-windows\Comprog 3 Project Sotto.AssemblyInfo.vb
+D:\Users\reina\source\repos\Comprog 3 Project Sotto\Comprog 3 Project Sotto\obj\Debug\net8.0-windows\Comprog 3 Project Sotto.vbproj.CoreCompileInputs.cache
+D:\Users\reina\source\repos\Comprog 3 Project Sotto\Comprog 3 Project Sotto\obj\Debug\net8.0-windows\Comprog 3 Project Sotto.dll
+D:\Users\reina\source\repos\Comprog 3 Project Sotto\Comprog 3 Project Sotto\obj\Debug\net8.0-windows\refint\Comprog 3 Project Sotto.dll
+D:\Users\reina\source\repos\Comprog 3 Project Sotto\Comprog 3 Project Sotto\obj\Debug\net8.0-windows\Comprog 3 Project Sotto.pdb
+D:\Users\reina\source\repos\Comprog 3 Project Sotto\Comprog 3 Project Sotto\obj\Debug\net8.0-windows\Comprog 3 Project Sotto.genruntimeconfig.cache
+D:\Users\reina\source\repos\Comprog 3 Project Sotto\Comprog 3 Project Sotto\obj\Debug\net8.0-windows\ref\Comprog 3 Project Sotto.dll
+D:\Users\reina\source\repos\Comprog 3 Project Sotto\Comprog 3 Project Sotto\obj\Debug\net8.0-windows\Comprog_3_Project_Sotto.Form2.resources
+D:\Users\reina\source\repos\Comprog 3 Project Sotto\Comprog 3 Project Sotto\obj\Debug\net8.0-windows\Comprog_3_Project_Sotto.Resources.resources
